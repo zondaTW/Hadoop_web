@@ -6,9 +6,9 @@
 留言功能(練習用)
 
 ## 畫面
-![picture] (picture/upload.png)  
-![picture] (picture/upload-successful.png)  
-![picture] (picture/hadoop-status.png)  
+![picture](picture/upload.png)  
+![picture](picture/upload-successful.png)  
+![picture](picture/hadoop-status.png)  
 
 
 ## 參考
